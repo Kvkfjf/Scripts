@@ -30,7 +30,8 @@ local Scripts = {
     ["Reimagined Blox"] = "ReimaginedBlox.lua",
     ["Pet Simulator 99"] = "PetSimulator99.lua",
     ["Muscle Legends"] = "MuscleLegends.lua",
-    ["Race Clicker"] = "RaceClicker.lua"
+    ["Race Clicker"] = "RaceClicker.lua",
+    ["Lifting Simulator"] = "LiftingSimulator.lua"
 }
 
 -- GitHub Repository Information
@@ -85,7 +86,7 @@ end
 
 -- Add Information
 InfoSection:NewLabel("Script by: kvkfjf")
-InfoSection:NewLabel("UI Library: Kavo UI")
+InfoSection:NewLabel("The best discord:Butt3rL3aks ")
 InfoSection:NewButton("Copy Discord", "Copies Discord invite to clipboard", function()
     setclipboard("discord.gg/S7qUMBNq6f")
 end)
